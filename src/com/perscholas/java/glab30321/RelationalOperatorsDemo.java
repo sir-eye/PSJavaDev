@@ -3,7 +3,7 @@ package com.perscholas.java.glab30321;
 public class RelationalOperatorsDemo {
     public static void main(String[] args) {
         int x = 10, y = 5;
-        System.out.println("**************************");
+        System.out.println("****************************************************");
         System.out.println("\n");
         System.out.println("Relational Operators Demo\n");
         System.out.println("x > y : "+(x > y));
@@ -20,6 +20,6 @@ public class RelationalOperatorsDemo {
         System.out.println("variable1 == variable2: " + (variable1 == variable2));
         System.out.println("variable1 == variable3: " + (variable1 == variable3));
         System.out.println("\n");
-        System.out.println("**************************");
+        System.out.println("****************************************************");
     }
 }

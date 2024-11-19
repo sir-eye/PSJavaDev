@@ -4,23 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PerScholasJavaDevelopment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/ArithmeticOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/AssignmentOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/BitwiseOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/GLAB30321ASMT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/LogicalOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/RelationalOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/TernaryOperatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/UnaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/GLAB30322ASMT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" afterDir="false" />
+    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY.">
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/AutoPromoteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/AutoTypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/ExplicitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/ArithmeticOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/ArithmeticOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/AssignmentOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/AssignmentOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/BitwiseOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/BitwiseOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/GLAB30321ASMT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/GLAB30321ASMT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/LogicalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/LogicalOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/RelationalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/RelationalOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/TernaryOperatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/TernaryOperatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/UnaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/GLAB30322ASMT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/GLAB30322ASMT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sir-eye"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sir-eye/PSJavaDev.git",
+    "accountId": "5779bed0-2409-4353-a7de-84980e5a8cfc"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -50,7 +60,10 @@
   "keyToString": {
     "Application.ArithmeticOperatorsDemo.executor": "Run",
     "Application.AssignmentOperatorsDemo.executor": "Run",
+    "Application.AutoPromoteTest.executor": "Run",
+    "Application.AutoTypeConversion.executor": "Run",
     "Application.BitwiseOperatorsDemo.executor": "Run",
+    "Application.ExplicitTest.executor": "Run",
     "Application.LogicalOperatorsDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.RelationalOperatorsDemo.executor": "Run",
@@ -71,12 +84,12 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="BitwiseOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30321.BitwiseOperatorsDemo" />
+    <configuration name="AutoPromoteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30322.AutoPromoteTest" />
       <module name="PerScholasJavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30321.*" />
+          <option name="PATTERN" value="com.perscholas.java.glab30322.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30321.LogicalOperatorsDemo" />
+    <configuration name="AutoTypeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30322.AutoTypeConversion" />
       <module name="PerScholasJavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30321.*" />
+          <option name="PATTERN" value="com.perscholas.java.glab30322.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30322.ExplicitTest" />
+      <module name="PerScholasJavaDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.glab30322.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,19 +129,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.perscholas.java.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TernaryOperatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30321.TernaryOperatorDemo" />
-      <module name="PerScholasJavaDevelopment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30321.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,10 +152,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExplicitTest" />
+        <item itemvalue="Application.AutoPromoteTest" />
+        <item itemvalue="Application.AutoTypeConversion" />
         <item itemvalue="Application.UnaryOperator" />
-        <item itemvalue="Application.TernaryOperatorDemo" />
-        <item itemvalue="Application.BitwiseOperatorsDemo" />
-        <item itemvalue="Application.LogicalOperatorsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -163,11 +176,24 @@
       <option name="presentableId" value="Default" />
       <updated>1732043146383</updated>
       <workItem from="1732043148187" duration="1266000" />
-      <workItem from="1732044551445" duration="6122000" />
+      <workItem from="1732044551445" duration="9048000" />
     </task>
+    <task id="LOCAL-00001" summary="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY.">
+      <option name="closed" value="true" />
+      <created>1732051002453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732051002453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY." />
   </component>
 </project>

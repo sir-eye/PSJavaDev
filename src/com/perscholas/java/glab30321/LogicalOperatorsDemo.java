@@ -4,7 +4,7 @@ public class LogicalOperatorsDemo {
     public static void main(String[] args) {
         boolean x = true;
         boolean y = false;
-        System.out.println("**************************");
+        System.out.println("****************************************************");
         System.out.println("\n");
         System.out.println("LogicalOperatorsDemo\n");
         System.out.println("x & y : " + (x & y));
@@ -14,7 +14,7 @@ public class LogicalOperatorsDemo {
         System.out.println("x ^ y : " + (x ^ y));
         System.out.println("!x : " + (!x));
         System.out.println("\n");
-        System.out.println("**************************");
+        System.out.println("****************************************************");
 
     }
 }

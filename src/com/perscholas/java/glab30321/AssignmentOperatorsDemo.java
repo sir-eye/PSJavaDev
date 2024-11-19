@@ -7,7 +7,7 @@ public class AssignmentOperatorsDemo {
         j = 10;
         j = 5;
         k = j;
-        System.out.println("**************************");
+        System.out.println("****************************************************");
         System.out.println("\n");
         System.out.println("Assignment Operators Demo\n");
         System.out.println("j is : " + j);
@@ -18,7 +18,7 @@ public class AssignmentOperatorsDemo {
         System.out.println("j is : " + j);
         System.out.println("k is : " + k);
         System.out.println("\n");
-        System.out.println("**************************");
+        System.out.println("****************************************************");
     }
 }
 

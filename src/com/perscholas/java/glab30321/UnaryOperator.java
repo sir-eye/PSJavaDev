@@ -4,7 +4,7 @@ public class UnaryOperator {
     public static void main(String[] args)
     {
         int sum = +1;
-        System.out.println("**************************");
+        System.out.println("****************************************************");
         System.out.println("\n");
         System.out.println("Unary Operator Demo\n");
         System.out.println(sum);
@@ -22,6 +22,6 @@ public class UnaryOperator {
         System.out.println(result);
         System.out.println(!result);
         System.out.println("\n");
-        System.out.println("**************************");
+        System.out.println("****************************************************");
     }
 }

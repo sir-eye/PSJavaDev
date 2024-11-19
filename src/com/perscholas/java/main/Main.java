@@ -10,6 +10,6 @@ public class Main {
         assignment1.runAllAssignments();
 
         GLAB30322ASMT assignment2 = new GLAB30322ASMT();
-        assignment2.runAssignment();
+        assignment2.runAllAssignments();
     }
 }

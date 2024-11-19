@@ -5,7 +5,7 @@ public class ArithmeticOperatorsDemo {
 
         int x, y = 10, z = 5;
 
-        System.out.println("**************************");
+        System.out.println("****************************************************");
         System.out.println("\n");
         System.out.println("Arithmetic Operators Demo\n");
         x = y + z;
@@ -45,7 +45,7 @@ public class ArithmeticOperatorsDemo {
         System.out.println("d1 is " + d1);
         System.out.println("d2 is " + d2);
         System.out.println("\n");
-        System.out.println("**************************");
+        System.out.println("****************************************************");
 
     }
 }
