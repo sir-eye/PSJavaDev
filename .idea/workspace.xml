@@ -4,8 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="UPDATED CODE AND DISPLAY- CLEANER OUTPUT AND EASIER TO FOLLOW ALONG WITH RESULTS FROM EACH ASSIGNMENT.">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/java_basics/JavaBasicsClass.java" afterDir="false" />
+    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="JAVA BASICS UPDATE.">
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/CompareToExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ContainExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/DemoReplaceAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/GLAB30331ASMT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/IsEmptyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/LengthDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ReplaceDemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/SplitMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringLowerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringTrimExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringUpperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/TestStringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/concatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/findString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/substringDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" afterDir="false" />
     </list>
@@ -24,18 +40,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sir-eye"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sir-eye&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sir-eye/PSJavaDev.git",
-    "accountId": "5779bed0-2409-4353-a7de-84980e5a8cfc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sir-eye/PSJavaDev.git&quot;,
+    &quot;accountId&quot;: &quot;5779bed0-2409-4353-a7de-84980e5a8cfc&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -52,13 +71,29 @@
     "Application.AutoPromoteTest.executor": "Run",
     "Application.AutoTypeConversion.executor": "Run",
     "Application.BitwiseOperatorsDemo.executor": "Run",
+    "Application.CompareToExample.executor": "Run",
+    "Application.ContainExample.executor": "Run",
+    "Application.DemoReplaceAll.executor": "Run",
     "Application.ExplicitTest.executor": "Run",
+    "Application.IsEmptyExample.executor": "Run",
     "Application.JavaBasicsClass.executor": "Run",
+    "Application.LengthDemo.executor": "Run",
     "Application.LogicalOperatorsDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.RelationalOperatorsDemo.executor": "Run",
+    "Application.ReplaceDemoMain.executor": "Run",
+    "Application.SplitMethod.executor": "Run",
+    "Application.StringLowerExample.executor": "Run",
+    "Application.StringTrimExample.executor": "Run",
+    "Application.StringUpperExample.executor": "Run",
     "Application.TernaryOperatorDemo.executor": "Run",
+    "Application.TestStringComparison.executor": "Run",
+    "Application.Teststringcomparison2.executor": "Run",
+    "Application.Teststringcomparison3.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
+    "Application.concatDemo.executor": "Run",
+    "Application.findString.executor": "Run",
+    "Application.substringDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -74,51 +109,12 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="AutoPromoteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30322.AutoPromoteTest" />
+    <configuration name="DemoReplaceAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30331.DemoReplaceAll" />
       <module name="PerScholasJavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30322.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AutoTypeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30322.AutoTypeConversion" />
-      <module name="PerScholasJavaDevelopment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30322.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExplicitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30322.ExplicitTest" />
-      <module name="PerScholasJavaDevelopment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30322.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaBasicsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.java_basics.JavaBasicsClass" />
-      <module name="PerScholasJavaDevelopment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.java.java_basics.*" />
+          <option name="PATTERN" value="com.perscholas.java.glab30331.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,13 +135,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestStringComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30331.TestStringComparison" />
+      <module name="PerScholasJavaDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.glab30331.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teststringcomparison2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30331.Teststringcomparison2" />
+      <module name="PerScholasJavaDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.glab30331.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teststringcomparison3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30331.Teststringcomparison3" />
+      <module name="PerScholasJavaDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.glab30331.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.JavaBasicsClass" />
-        <item itemvalue="Application.ExplicitTest" />
-        <item itemvalue="Application.AutoPromoteTest" />
-        <item itemvalue="Application.AutoTypeConversion" />
+        <item itemvalue="Application.Teststringcomparison3" />
+        <item itemvalue="Application.Teststringcomparison2" />
+        <item itemvalue="Application.TestStringComparison" />
+        <item itemvalue="Application.DemoReplaceAll" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +201,8 @@
       <option name="presentableId" value="Default" />
       <updated>1732043146383</updated>
       <workItem from="1732043148187" duration="1266000" />
-      <workItem from="1732044551445" duration="13685000" />
+      <workItem from="1732044551445" duration="14968000" />
+      <workItem from="1732135696874" duration="5685000" />
     </task>
     <task id="LOCAL-00001" summary="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY.">
       <option name="closed" value="true" />
@@ -184,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732060400728</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="JAVA BASICS UPDATE.">
+      <option name="closed" value="true" />
+      <created>1732066164141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732066164141</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +237,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY." />
     <MESSAGE value="UPDATED CODE AND DISPLAY- CLEANER OUTPUT AND EASIER TO FOLLOW ALONG WITH RESULTS FROM EACH ASSIGNMENT." />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATED CODE AND DISPLAY- CLEANER OUTPUT AND EASIER TO FOLLOW ALONG WITH RESULTS FROM EACH ASSIGNMENT." />
+    <MESSAGE value="JAVA BASICS UPDATE." />
+    <option name="LAST_COMMIT_MESSAGE" value="JAVA BASICS UPDATE." />
   </component>
 </project>
