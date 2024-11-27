@@ -1,5 +1,6 @@
 package com.perscholas.java.glab30322;
 
+import com.perscholas.java.glab30321.ArithmeticOperatorsDemo;
 import com.perscholas.java.glab30322.AutoPromoteTest;
 import com.perscholas.java.glab30322.AutoTypeConversion;
 import com.perscholas.java.glab30322.ExplicitTest;
@@ -7,24 +8,26 @@ import com.perscholas.java.glab30322.ExplicitTest;
 public class GLAB30322ASMT {
     public void runAllAssignments() {
 
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
-        System.out.println("GUIDED LAB 303.2.2 - Core Java: Type Casting\n");
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
+        System.out.println("\n****************************************************");
+        System.out.println("GUIDED LAB 303.2.2 - Core Java: Type Casting");
+        System.out.println("****************************************************\n");
 
-        AutoTypeConversion autoTypeConversion = new AutoTypeConversion();
-        autoTypeConversion.main(null);
+        System.out.println("\n****************************************************\n");
+        System.out.println("\nAuto Type Conversion Demo\n");
+        AutoTypeConversion.runTask();
+        System.out.println("\n****************************************************\n");
 
-        AutoPromoteTest autoPromoteTest = new AutoPromoteTest();
-        autoPromoteTest.main(null);
+        System.out.println("\n****************************************************\n");
+        System.out.println("\nAuto Promote Demo\n");
+        AutoPromoteTest.runTask();
+        System.out.println("\n****************************************************\n");
 
-        ExplicitTest explicitTest = new ExplicitTest();
-        explicitTest.main(null);
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
+        System.out.println("\n****************************************************\n");
+        System.out.println("\nExplicit Test Demo\n");
+        ExplicitTest.runTask();
+        System.out.println("\n****************************************************\n");
+
+        System.out.println("\n****************************************************");
+        System.out.println("****************************************************\n");
     }
 }

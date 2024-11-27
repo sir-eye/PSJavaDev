@@ -1,11 +1,10 @@
 package com.perscholas.java.glab30321;
 
 public class RelationalOperatorsDemo {
-    public static void main(String[] args) {
+    public static void runTask() {
+
         int x = 10, y = 5;
-        System.out.println("****************************************************");
-        System.out.println("\n");
-        System.out.println("Relational Operators Demo\n");
+
         System.out.println("x > y : "+(x > y));
         System.out.println("x < y : "+(x < y));
         System.out.println("x >= y : "+(x >= y));
@@ -19,7 +18,5 @@ public class RelationalOperatorsDemo {
         System.out.println("variable3 = " + variable3);
         System.out.println("variable1 == variable2: " + (variable1 == variable2));
         System.out.println("variable1 == variable3: " + (variable1 == variable3));
-        System.out.println("\n");
-        System.out.println("****************************************************");
     }
 }

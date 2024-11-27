@@ -1,13 +1,10 @@
 package com.perscholas.java.glab30321;
 
 public class ArithmeticOperatorsDemo {
-    public static void main(String[] args) {
+    public static void runTask() {
 
         int x, y = 10, z = 5;
 
-        System.out.println("****************************************************");
-        System.out.println("\n");
-        System.out.println("Arithmetic Operators Demo\n");
         x = y + z;
         System.out.println("+ operator resulted in " + x);
 
@@ -34,18 +31,18 @@ public class ArithmeticOperatorsDemo {
 
         int tooBig = Integer.MAX_VALUE + 1;
         int tooSmall = Integer.MIN_VALUE - 1;
+
         System.out.println("tooBig becomes " + tooBig);
         System.out.println("tooSmall becomes " + tooSmall);
+
         System.out.println(4.0 / 0.0);
         System.out.println(-4.0 / 0.0);
         System.out.println(0.0 / 0.0);
 
         double d1 = 12 / 8;
         double d2 = 12.0F / 8;
+
         System.out.println("d1 is " + d1);
         System.out.println("d2 is " + d2);
-        System.out.println("\n");
-        System.out.println("****************************************************");
-
     }
 }

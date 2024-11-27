@@ -1,7 +1,7 @@
 package com.perscholas.java.glab30331;
 
 public class LengthDemo {
-    public static void main(String[] args) {
+    public static void runTask() {
         String str1 = "Java";
         String str2 = "";
 
@@ -10,6 +10,5 @@ public class LengthDemo {
         System.out.println("Java".length());
         System.out.println("Java\n".length());
         System.out.println("Learn Java".length());
-
     }
 }

@@ -7,40 +7,44 @@ import com.perscholas.java.glab30321.LogicalOperatorsDemo;
 import com.perscholas.java.glab30321.RelationalOperatorsDemo;
 import com.perscholas.java.glab30321.TernaryOperatorDemo;
 import com.perscholas.java.glab30321.UnaryOperator;
+import com.perscholas.java.glab30351.LoopDemoOne;
 
 public class GLAB30321ASMT {
     public void runAllAssignments() {
 
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
-        System.out.println("GUIDED LAB 303.2.1 - Core Java: Operators\n");
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
-        // Create objects of each class and call their methods to run the assignments
-        ArithmeticOperatorsDemo arithmeticDemo = new ArithmeticOperatorsDemo();
-        arithmeticDemo.main(null); // Call the main method or a specific method
+        System.out.println("\n\n\n******************************************");
+        System.out.println("GUIDED LAB 303.2.1 - Core Java: Operators");
+        System.out.println("******************************************\n");
 
-        AssignmentOperatorsDemo assignmentDemo = new AssignmentOperatorsDemo();
-        assignmentDemo.main(null);
+        System.out.println("\n\n\nArithmetic Operators Demo");
+        System.out.println("******************************************");
+        ArithmeticOperatorsDemo.runTask();
 
-        BitwiseOperatorsDemo bitwiseDemo = new BitwiseOperatorsDemo();
-        bitwiseDemo.main(null);
+        System.out.println("\n\n\nAssignment Operators Demo");
+        System.out.println("******************************************");
+        AssignmentOperatorsDemo.runTask();
 
-        LogicalOperatorsDemo logicalDemo = new LogicalOperatorsDemo();
-        logicalDemo.main(null);
+        System.out.println("\n\n\nBitwise Operators Demo");
+        System.out.println("******************************************");
+        BitwiseOperatorsDemo.runTask();
 
-        RelationalOperatorsDemo relationalDemo = new RelationalOperatorsDemo();
-        relationalDemo.main(null);
+        System.out.println("\n\n\nLogical Operators Demo");
+        System.out.println("******************************************");
+        LogicalOperatorsDemo.runTask();
 
-        TernaryOperatorDemo ternaryDemo = new TernaryOperatorDemo();
-        ternaryDemo.main(null);
+        System.out.println("\n\n\nRelational Operators Demo");
+        System.out.println("******************************************");
+        RelationalOperatorsDemo.runTask();
 
-        UnaryOperator unaryDemo = new UnaryOperator();
-        unaryDemo.main(null);
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
-        System.out.println("****************************************************");
+        System.out.println("\n\n\nTernary Operators Demo");
+        System.out.println("******************************************");
+        TernaryOperatorDemo.runTask();
+
+        System.out.println("\n\n\nUnary Operators Demo");
+        System.out.println("******************************************");
+        UnaryOperator.runTask();
+
+        System.out.println("******************************************");
+        System.out.println("******************************************\n");
     }
 }

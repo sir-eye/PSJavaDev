@@ -4,25 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="JAVA BASICS UPDATE.">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/CompareToExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ContainExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/DemoReplaceAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/GLAB30331ASMT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/IsEmptyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/LengthDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ReplaceDemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/SplitMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringLowerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringTrimExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringUpperExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/TestStringComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/concatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/findString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/substringDemo.java" afterDir="false" />
+    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="GLAB 30331 UPDATE. ROUGH DRAFT AND SUBMITTED FOR HOMEWORK.">
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/OOP/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/OOP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/pa30371ASMT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/GLAB30351ASMT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/LoopDemoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/NaturalNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/PalindromeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/PyramidExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/ArithmeticOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/ArithmeticOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/AssignmentOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/AssignmentOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/BitwiseOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/BitwiseOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/GLAB30321ASMT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/GLAB30321ASMT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/LogicalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/LogicalOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/RelationalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/RelationalOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/TernaryOperatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/TernaryOperatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/UnaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/AutoPromoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/AutoPromoteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/AutoTypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/AutoTypeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/ExplicitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/ExplicitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/GLAB30322ASMT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/GLAB30322ASMT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/CompareToExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/CompareToExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ContainExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ContainExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/DemoReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/DemoReplaceAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/GLAB30331ASMT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/GLAB30331ASMT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/IsEmptyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/IsEmptyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/LengthDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/LengthDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ReplaceDemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ReplaceDemoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/SplitMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/SplitMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringLowerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringLowerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringTrimExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringTrimExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringUpperExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringUpperExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/TestStringComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/TestStringComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/concatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/concatDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/findString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/findString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/substringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/substringDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,83 +95,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArithmeticOperatorsDemo.executor": "Run",
-    "Application.AssignmentOperatorsDemo.executor": "Run",
-    "Application.AutoPromoteTest.executor": "Run",
-    "Application.AutoTypeConversion.executor": "Run",
-    "Application.BitwiseOperatorsDemo.executor": "Run",
-    "Application.CompareToExample.executor": "Run",
-    "Application.ContainExample.executor": "Run",
-    "Application.DemoReplaceAll.executor": "Run",
-    "Application.ExplicitTest.executor": "Run",
-    "Application.IsEmptyExample.executor": "Run",
-    "Application.JavaBasicsClass.executor": "Run",
-    "Application.LengthDemo.executor": "Run",
-    "Application.LogicalOperatorsDemo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.RelationalOperatorsDemo.executor": "Run",
-    "Application.ReplaceDemoMain.executor": "Run",
-    "Application.SplitMethod.executor": "Run",
-    "Application.StringLowerExample.executor": "Run",
-    "Application.StringTrimExample.executor": "Run",
-    "Application.StringUpperExample.executor": "Run",
-    "Application.TernaryOperatorDemo.executor": "Run",
-    "Application.TestStringComparison.executor": "Run",
-    "Application.Teststringcomparison2.executor": "Run",
-    "Application.Teststringcomparison3.executor": "Run",
-    "Application.UnaryOperator.executor": "Run",
-    "Application.concatDemo.executor": "Run",
-    "Application.findString.executor": "Run",
-    "Application.substringDemo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ial-r",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Ial-r/IdeaProjects/PerScholasJavaDevelopment/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArithmeticOperatorsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssignmentOperatorsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AutoPromoteTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AutoTypeConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitwiseOperatorsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareToExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoReplaceAll.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExplicitTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsEmptyExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaBasicsClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogicalOperatorsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RelationalOperatorsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceDemoMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SplitMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringLowerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringTrimExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringUpperExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOperatorDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestStringComparison.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teststringcomparison2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teststringcomparison3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.perscholas.java.OOP.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.concatDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pa30371ASMT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.substringDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ial-r&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ial-r/IdeaProjects/PerScholasJavaDevelopment/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="DemoReplaceAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30331.DemoReplaceAll" />
-      <module name="PerScholasJavaDevelopment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30331.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.perscholas.java.main.Main" />
       <module name="PerScholasJavaDevelopment" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.perscholas.java.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStringComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30331.TestStringComparison" />
-      <module name="PerScholasJavaDevelopment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30331.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,13 +181,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.perscholas.java.OOP.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.OOP.Main" />
+      <module name="PerScholasJavaDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pa30371ASMT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.PA30371.pa30371ASMT" />
+      <module name="PerScholasJavaDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.PA30371.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.pa30371ASMT" />
+        <item itemvalue="Application.com.perscholas.java.OOP.Main" />
         <item itemvalue="Application.Teststringcomparison3" />
         <item itemvalue="Application.Teststringcomparison2" />
-        <item itemvalue="Application.TestStringComparison" />
-        <item itemvalue="Application.DemoReplaceAll" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +235,14 @@
       <updated>1732043146383</updated>
       <workItem from="1732043148187" duration="1266000" />
       <workItem from="1732044551445" duration="14968000" />
-      <workItem from="1732135696874" duration="5685000" />
+      <workItem from="1732135696874" duration="5979000" />
+      <workItem from="1732566686277" duration="900000" />
+      <workItem from="1732631500639" duration="45000" />
+      <workItem from="1732634622121" duration="391000" />
+      <workItem from="1732635034855" duration="4299000" />
+      <workItem from="1732647501803" duration="2646000" />
+      <workItem from="1732650543940" duration="10000" />
+      <workItem from="1732735486922" duration="7857000" />
     </task>
     <task id="LOCAL-00001" summary="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY.">
       <option name="closed" value="true" />
@@ -228,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732066164141</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="GLAB 30331 UPDATE. ROUGH DRAFT AND SUBMITTED FOR HOMEWORK.">
+      <option name="closed" value="true" />
+      <created>1732141685040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732141685040</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +286,7 @@
     <MESSAGE value="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY." />
     <MESSAGE value="UPDATED CODE AND DISPLAY- CLEANER OUTPUT AND EASIER TO FOLLOW ALONG WITH RESULTS FROM EACH ASSIGNMENT." />
     <MESSAGE value="JAVA BASICS UPDATE." />
-    <option name="LAST_COMMIT_MESSAGE" value="JAVA BASICS UPDATE." />
+    <MESSAGE value="GLAB 30331 UPDATE. ROUGH DRAFT AND SUBMITTED FOR HOMEWORK." />
+    <option name="LAST_COMMIT_MESSAGE" value="GLAB 30331 UPDATE. ROUGH DRAFT AND SUBMITTED FOR HOMEWORK." />
   </component>
 </project>
