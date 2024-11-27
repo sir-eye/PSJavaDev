@@ -16,35 +16,28 @@ public class GLAB30321ASMT {
         System.out.println("GUIDED LAB 303.2.1 - Core Java: Operators");
         System.out.println("******************************************\n");
 
-        System.out.println("\n\n\nArithmetic Operators Demo");
-        System.out.println("******************************************");
+        System.out.println("\n\n\n>>Arithmetic Operators Demo");
         ArithmeticOperatorsDemo.runTask();
 
-        System.out.println("\n\n\nAssignment Operators Demo");
-        System.out.println("******************************************");
+        System.out.println("\n\n\n>>Assignment Operators Demo");
         AssignmentOperatorsDemo.runTask();
 
-        System.out.println("\n\n\nBitwise Operators Demo");
-        System.out.println("******************************************");
+        System.out.println("\n\n\n>>Bitwise Operators Demo");
         BitwiseOperatorsDemo.runTask();
 
-        System.out.println("\n\n\nLogical Operators Demo");
-        System.out.println("******************************************");
+        System.out.println("\n\n\n>>Logical Operators Demo");
         LogicalOperatorsDemo.runTask();
 
-        System.out.println("\n\n\nRelational Operators Demo");
-        System.out.println("******************************************");
+        System.out.println("\n\n\n>>Relational Operators Demo");
         RelationalOperatorsDemo.runTask();
 
-        System.out.println("\n\n\nTernary Operators Demo");
-        System.out.println("******************************************");
+        System.out.println("\n\n\n>>Ternary Operators Demo");
         TernaryOperatorDemo.runTask();
 
-        System.out.println("\n\n\nUnary Operators Demo");
-        System.out.println("******************************************");
+        System.out.println("\n\n\n>>Unary Operators Demo");
         UnaryOperator.runTask();
 
-        System.out.println("******************************************");
+        System.out.println("\n******************************************");
         System.out.println("******************************************\n");
     }
 }

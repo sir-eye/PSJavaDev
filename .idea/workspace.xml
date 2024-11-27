@@ -4,57 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="GLAB 30331 UPDATE. ROUGH DRAFT AND SUBMITTED FOR HOMEWORK.">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/OOP/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/OOP/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30371/pa30371ASMT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/GLAB30351ASMT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/LoopDemoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/NaturalNumberSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/PalindromeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/PyramidExample.java" afterDir="false" />
+    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="GLAB30321 - FINAL. CONTINUING TO WORK IN A GRADUATED PACE TO THE REST OF THE PACKAGES TO CREATE UNIFORMITY THROUGHOUT CONSOLE OUTPUT FOR READABILITY.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/ArithmeticOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/ArithmeticOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/AssignmentOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/AssignmentOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/BitwiseOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/BitwiseOperatorsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/GLAB30321ASMT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/GLAB30321ASMT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/LogicalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/LogicalOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/RelationalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/RelationalOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/TernaryOperatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/TernaryOperatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30321/UnaryOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/AutoPromoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/AutoPromoteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/AutoTypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/AutoTypeConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/ExplicitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/ExplicitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/GLAB30322ASMT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30322/GLAB30322ASMT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/CompareToExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/CompareToExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ContainExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ContainExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/DemoReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/DemoReplaceAll.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/GLAB30331ASMT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/GLAB30331ASMT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/IsEmptyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/IsEmptyExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/LengthDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/LengthDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ReplaceDemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/ReplaceDemoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/SplitMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/SplitMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringLowerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringLowerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringTrimExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringTrimExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringUpperExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/StringUpperExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/TestStringComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/TestStringComparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/Teststringcomparison3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/concatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/concatDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/findString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/findString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/substringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30331/substringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/GLAB30351ASMT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30351/GLAB30351ASMT.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +197,7 @@
       <workItem from="1732635034855" duration="4299000" />
       <workItem from="1732647501803" duration="2646000" />
       <workItem from="1732650543940" duration="10000" />
-      <workItem from="1732735486922" duration="7857000" />
+      <workItem from="1732735486922" duration="10369000" />
     </task>
     <task id="LOCAL-00001" summary="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY.">
       <option name="closed" value="true" />
@@ -276,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732141685040</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="GLAB30321 - FINAL. CONTINUING TO WORK IN A GRADUATED PACE TO THE REST OF THE PACKAGES TO CREATE UNIFORMITY THROUGHOUT CONSOLE OUTPUT FOR READABILITY.">
+      <option name="closed" value="true" />
+      <created>1732743566575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732743566575</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +250,7 @@
     <MESSAGE value="UPDATED CODE AND DISPLAY- CLEANER OUTPUT AND EASIER TO FOLLOW ALONG WITH RESULTS FROM EACH ASSIGNMENT." />
     <MESSAGE value="JAVA BASICS UPDATE." />
     <MESSAGE value="GLAB 30331 UPDATE. ROUGH DRAFT AND SUBMITTED FOR HOMEWORK." />
-    <option name="LAST_COMMIT_MESSAGE" value="GLAB 30331 UPDATE. ROUGH DRAFT AND SUBMITTED FOR HOMEWORK." />
+    <MESSAGE value="GLAB30321 - FINAL. CONTINUING TO WORK IN A GRADUATED PACE TO THE REST OF THE PACKAGES TO CREATE UNIFORMITY THROUGHOUT CONSOLE OUTPUT FOR READABILITY." />
+    <option name="LAST_COMMIT_MESSAGE" value="GLAB30321 - FINAL. CONTINUING TO WORK IN A GRADUATED PACE TO THE REST OF THE PACKAGES TO CREATE UNIFORMITY THROUGHOUT CONSOLE OUTPUT FOR READABILITY." />
   </component>
 </project>

@@ -21,91 +21,59 @@ import com.perscholas.java.glab30331.Teststringcomparison3;
 public class GLAB30331ASMT {
     public void runAllAssignments() {
 
-        System.out.println("\n****************************************************");
+        System.out.println("\n******************************************");
         System.out.println("GUIDED LAB 303.3.1 - Java String methods");
-        System.out.println("****************************************************\n");
+        System.out.println("******************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nLength Demo\n");
+        System.out.println("\n\n\n>>Length Demo");
         LengthDemo.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nIsEmpty Demo\n");
+        System.out.println("\n\n\n>>IsEmpty Demo");
         IsEmptyExample.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nString Trim Demo\n");
+        System.out.println("\n\n\n>>String Trim Demo");
         StringTrimExample.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nString Lower Demo\n");
+        System.out.println("\n\n\n>>String Lower Demo");
         StringLowerExample.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nString Upper Demo\n");
+        System.out.println("\n\n\n>>String Upper Demo");
         StringUpperExample.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nConcat Demo\n");
+        System.out.println("\n\n\n>>Concat Demo");
         concatDemo.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nSplit Method Demo\n");
+        System.out.println("\n\n\n>>Split Method Demo");
         SplitMethod.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nCompareTo Demo\n");
+        System.out.println("\n\n\n>>CompareTo Demo");
         CompareToExample.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nSubString Demo\n");
+        System.out.println("\n\n\n>>SubString Demo");
         substringDemo.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nFindString Demo\n");
+        System.out.println("\n\n\n>>FindString Demo");
         findString.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nContain Demo\n");
+        System.out.println("\n\n\n>>Contain Demo");
         ContainExample.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nReplace Demo\n");
+        System.out.println("\n\n\n>>Replace Demo");
         ReplaceDemoMain.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nReplaceAll Demo\n");
+        System.out.println("\n\n\n>>ReplaceAll Demo");
         DemoReplaceAll.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nTest String Comparison Demo\n");
+        System.out.println("\n\n\n>>Test String Comparison Demo");
         TestStringComparison.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nTest String Comparison 2 Demo\n");
+        System.out.println("\n\n\n>>Test String Comparison 2 Demo");
         Teststringcomparison2.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************\n");
-        System.out.println("\nTest String Comparison 3 Demo\n");
+        System.out.println("\n\n\n>>Test String Comparison 3 Demo");
         Teststringcomparison3.runTask();
-        System.out.println("\n****************************************************\n");
 
-        System.out.println("\n****************************************************");
-        System.out.println("****************************************************\n");
+        System.out.println("\n******************************************");
+        System.out.println("******************************************\n");
     }
 }

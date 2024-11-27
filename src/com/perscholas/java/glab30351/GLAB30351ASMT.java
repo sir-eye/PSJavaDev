@@ -8,22 +8,23 @@ import com.perscholas.java.glab30351.PyramidExample;
 public class GLAB30351ASMT {
     public void runAllAssignments() {
 
-        System.out.println("****************************************************");
-        System.out.println("GUIDED LAB 303.5.1 - For Loop\n");
-        System.out.println("****************************************************");
+        System.out.println("\n******************************************");
+        System.out.println("GUIDED LAB 303.5.1 - For Loop");
+        System.out.println("******************************************\n");
 
-        System.out.println("\nExample 1: Display a Text Five Times");
+        System.out.println("\n\n\n>>Example 1: Display a Text Five Times");
         LoopDemoOne.runTask();
 
-        System.out.println("\nExample 2: Display Sum of n Natural Numbers");
+        System.out.println("\n\n\n>>Example 2: Display Sum of n Natural Numbers");
         NaturalNumberSum.runTask();
 
-        System.out.println("\nExample 3: Palindrome");
+        System.out.println("\n\n\n>>Example 3: Palindrome");
         PalindromeExample.runTask();
 
-        System.out.println("\nExample 4: Pyramid");
+        System.out.println("\n\n\n>>Example 4: Pyramid");
         PyramidExample.runTask();
 
-        System.out.println("\n****************************************************\n");
+        System.out.println("\n******************************************");
+        System.out.println("******************************************\n");
     }
 }
