@@ -5,7 +5,7 @@ Welcome to my Per Scholas Full Stack Developer Project Repository! This reposito
 
 🗂 Course Overview
 
-The Per Scholas Full Stack Java Developer Bootcamp** is designed to provide participants with a robust foundation in Java development and full-stack web technologies. The course is structured into the following modules:
+The Per Scholas Full Stack Java Developer Bootcamp is designed to provide participants with a robust foundation in Java development and full-stack web technologies. The course is structured into the following modules:
 
 Module 301: Project Management
 - Agile methodologies
@@ -38,8 +38,8 @@ Module 306: JUnit Testing
 - Mocking and test coverage
 
 Modules 307 & 308: Web Development Fundamentals
-- **HTML/CSS**: Building static web pages
-- **JavaScript**: Adding interactivity and client-side scripting
+- HTML/CSS: Building static web pages
+- JavaScript: Adding interactivity and client-side scripting
 
 Module 309: Java EE, Spring Framework, and Spring Boot
 - Building enterprise-grade Java applications
@@ -62,7 +62,7 @@ Capstone Project
 
 📂 Repository Structure
 
-The repository is organized into modules and assignments for easy navigation.
+The repository is organized into packages and classes for assignments for easy navigation.
 
 
 🌟 Features
@@ -95,7 +95,7 @@ The repository is organized into modules and assignments for easy navigation.
 
 👥 Contributors
 
-This repository is maintained as part of my bootcamp coursework. A special thanks to **Ms. Lewis** for her guidance and instruction.
+This repository is maintained as part of my bootcamp coursework. A special thanks to Ms. Lewis for her guidance and instruction.
 
 
 🚀 Future Plans
