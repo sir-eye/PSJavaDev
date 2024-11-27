@@ -62,7 +62,7 @@ Capstone Project
 
 📂 Repository Structure
 
-The repository is organized into packages and classes for assignments for easy navigation.
+The repository is organized into packages of Guided Labs and Practice Assignments for easy navigation.
 
 
 🌟 Features
