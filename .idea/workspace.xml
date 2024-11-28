@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="UPDATE TO OUTPUT TEXT-  BULLETED TITLES TO HELP ORGANIZE ASSIGNMENT AT CONSOLE">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30332/GLAB30332ASMT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30332/ReadingStringFromConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30332/ReadingStringFromConsole1.java" afterDir="false" />
+    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="ADDED GLAB-303.3.2">
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30352/GLAB30352ASMT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30352/GuessTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30352/SentinalValueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30352/SubtractionQuizLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" afterDir="false" />
     </list>
@@ -197,7 +198,7 @@
       <workItem from="1732635034855" duration="4299000" />
       <workItem from="1732647501803" duration="2646000" />
       <workItem from="1732650543940" duration="10000" />
-      <workItem from="1732735486922" duration="11995000" />
+      <workItem from="1732735486922" duration="15638000" />
     </task>
     <task id="LOCAL-00001" summary="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY.">
       <option name="closed" value="true" />
@@ -247,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732749552376</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ADDED GLAB-303.3.2">
+      <option name="closed" value="true" />
+      <created>1732751063588</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732751063588</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +269,7 @@
     <MESSAGE value="GLAB 30331 UPDATE. ROUGH DRAFT AND SUBMITTED FOR HOMEWORK." />
     <MESSAGE value="GLAB30321 - FINAL. CONTINUING TO WORK IN A GRADUATED PACE TO THE REST OF THE PACKAGES TO CREATE UNIFORMITY THROUGHOUT CONSOLE OUTPUT FOR READABILITY." />
     <MESSAGE value="UPDATE TO OUTPUT TEXT-  BULLETED TITLES TO HELP ORGANIZE ASSIGNMENT AT CONSOLE" />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE TO OUTPUT TEXT-  BULLETED TITLES TO HELP ORGANIZE ASSIGNMENT AT CONSOLE" />
+    <MESSAGE value="ADDED GLAB-303.3.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED GLAB-303.3.2" />
   </component>
 </project>

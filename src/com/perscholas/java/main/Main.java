@@ -5,6 +5,7 @@ import com.perscholas.java.glab30322.GLAB30322ASMT;
 import com.perscholas.java.glab30331.GLAB30331ASMT;
 import com.perscholas.java.glab30332.GLAB30332ASMT;
 import com.perscholas.java.glab30351.GLAB30351ASMT;
+import com.perscholas.java.glab30352.GLAB30352ASMT;
 //import com.perscholas.java.java_basics.JavaBasicsClass;
 
 public class Main {
@@ -24,6 +25,9 @@ public class Main {
 
         GLAB30332ASMT assignment5 = new GLAB30332ASMT();
         assignment5.runAllAssignments();
+
+        GLAB30352ASMT assignment6 = new GLAB30352ASMT();
+        assignment6.runAllAssignments();
 
         //JavaBasicsClass javaBasicsClass = new JavaBasicsClass();
     }
