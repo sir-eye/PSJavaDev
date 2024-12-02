@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="ADDED GLAB-303.5.2">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30321/BudgetPerPhase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30321/Cafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30321/ConstantCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30321/Milestones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30321/ProjectTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30321/TotalBudget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30321/TotalEffort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/PA30321/pa30321ASMT.java" afterDir="false" />
+    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="ADDED PRACTICE ASSIGNMENT-303.2.1">
+      <change afterPath="$PROJECT_DIR$/src/glab30391/EncapsulationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/glab30391/HumanBeing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,59 +48,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArithmeticOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AssignmentOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoPromoteTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoTypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitwiseOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompareToExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoReplaceAll.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExplicitTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsEmptyExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaBasicsClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LengthDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelationalOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReplaceDemoMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SplitMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringLowerExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTrimExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringUpperExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperatorDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestStringComparison.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Teststringcomparison2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Teststringcomparison3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.perscholas.java.OOP.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.concatDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pa30371ASMT.executor&quot;: &quot;Run&quot;,
-    &quot;Application.substringDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ial-r&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ial-r/IdeaProjects/PerScholasJavaDevelopment/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArithmeticOperatorsDemo.executor": "Run",
+    "Application.AssignmentOperatorsDemo.executor": "Run",
+    "Application.AutoPromoteTest.executor": "Run",
+    "Application.AutoTypeConversion.executor": "Run",
+    "Application.BitwiseOperatorsDemo.executor": "Run",
+    "Application.CompareToExample.executor": "Run",
+    "Application.ContainExample.executor": "Run",
+    "Application.DemoReplaceAll.executor": "Run",
+    "Application.EncapsulationExample.executor": "Run",
+    "Application.ExplicitTest.executor": "Run",
+    "Application.IsEmptyExample.executor": "Run",
+    "Application.JavaBasicsClass.executor": "Run",
+    "Application.LengthDemo.executor": "Run",
+    "Application.LogicalOperatorsDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.RelationalOperatorsDemo.executor": "Run",
+    "Application.ReplaceDemoMain.executor": "Run",
+    "Application.SplitMethod.executor": "Run",
+    "Application.StringLowerExample.executor": "Run",
+    "Application.StringTrimExample.executor": "Run",
+    "Application.StringUpperExample.executor": "Run",
+    "Application.TernaryOperatorDemo.executor": "Run",
+    "Application.TestStringComparison.executor": "Run",
+    "Application.Teststringcomparison2.executor": "Run",
+    "Application.Teststringcomparison3.executor": "Run",
+    "Application.UnaryOperator.executor": "Run",
+    "Application.com.perscholas.java.OOP.Main.executor": "Run",
+    "Application.concatDemo.executor": "Run",
+    "Application.findString.executor": "Run",
+    "Application.pa30371ASMT.executor": "Run",
+    "Application.substringDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ial-r",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Ial-r/IdeaProjects/PerScholasJavaDevelopment/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.main.Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.EncapsulationExample">
+    <configuration name="EncapsulationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="glab30391.EncapsulationExample" />
       <module name="PerScholasJavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.java.main.*" />
+          <option name="PATTERN" value="glab30391.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teststringcomparison2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30331.Teststringcomparison2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.main.Main" />
       <module name="PerScholasJavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30331.*" />
+          <option name="PATTERN" value="com.perscholas.java.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EncapsulationExample" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.pa30371ASMT" />
         <item itemvalue="Application.com.perscholas.java.OOP.Main" />
         <item itemvalue="Application.Teststringcomparison3" />
-        <item itemvalue="Application.Teststringcomparison2" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +197,8 @@
       <workItem from="1732647501803" duration="2646000" />
       <workItem from="1732650543940" duration="10000" />
       <workItem from="1732735486922" duration="15783000" />
-      <workItem from="1732755247912" duration="2254000" />
+      <workItem from="1732755247912" duration="2326000" />
+      <workItem from="1733152856502" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY.">
       <option name="closed" value="true" />
@@ -269,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732754799073</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ADDED PRACTICE ASSIGNMENT-303.2.1">
+      <option name="closed" value="true" />
+      <created>1732757561453</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732757561453</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +287,7 @@
     <MESSAGE value="UPDATE TO OUTPUT TEXT-  BULLETED TITLES TO HELP ORGANIZE ASSIGNMENT AT CONSOLE" />
     <MESSAGE value="ADDED GLAB-303.3.2" />
     <MESSAGE value="ADDED GLAB-303.5.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADDED GLAB-303.5.2" />
+    <MESSAGE value="ADDED PRACTICE ASSIGNMENT-303.2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED PRACTICE ASSIGNMENT-303.2.1" />
   </component>
 </project>
