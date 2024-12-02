@@ -1,4 +1,4 @@
-package glab30391;
+package com.perscholas.java.glab30391;
 
 public class HumanBeing {
 
