@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="First commit and Push">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30391/EncapsulationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30391/HumanBeing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30361/EnhancedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30361/GLAB30361ASMT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30361/MeanSDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30361/arrayDemoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30361/arrayDemoThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30361/arrayDemoTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30361/insertElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glab30391/EncapsulationExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glab30391/HumanBeing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +86,7 @@
     "Application.com.perscholas.java.glab30391.EncapsulationExample.executor": "Run",
     "Application.concatDemo.executor": "Run",
     "Application.findString.executor": "Run",
+    "Application.insertElements.executor": "Run",
     "Application.pa30371ASMT.executor": "Run",
     "Application.substringDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -98,7 +103,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.perscholas.java.glab30391.EncapsulationExample">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EncapsulationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="glab30391.EncapsulationExample" />
       <module name="PerScholasJavaDevelopment" />
@@ -125,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.perscholas.java.OOP.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.OOP.Main" />
+    <configuration name="com.perscholas.java.glab30391.EncapsulationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30391.EncapsulationExample" />
       <module name="PerScholasJavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.java.OOP.*" />
+          <option name="PATTERN" value="com.perscholas.java.glab30391.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.perscholas.java.glab30391.EncapsulationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30391.EncapsulationExample" />
+    <configuration name="insertElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30361.insertElements" />
       <module name="PerScholasJavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30391.*" />
+          <option name="PATTERN" value="com.perscholas.java.glab30361.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.insertElements" />
         <item itemvalue="Application.com.perscholas.java.glab30391.EncapsulationExample" />
         <item itemvalue="Application.EncapsulationExample" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.pa30371ASMT" />
-        <item itemvalue="Application.com.perscholas.java.OOP.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +206,7 @@
       <workItem from="1732650543940" duration="10000" />
       <workItem from="1732735486922" duration="15783000" />
       <workItem from="1732755247912" duration="2326000" />
-      <workItem from="1733152856502" duration="2598000" />
+      <workItem from="1733152856502" duration="6243000" />
     </task>
     <task id="LOCAL-00001" summary="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY.">
       <option name="closed" value="true" />
@@ -283,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733154803861</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="First commit and Push">
+      <option name="closed" value="true" />
+      <created>1733155509500</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733155509500</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
