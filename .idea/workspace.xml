@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="GLAB 30361 UPDATE">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30392/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30392/GLAB30392ASMT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30392/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab30392/Surgeon.java" afterDir="false" />
+    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="GLAB 30392 UPDATE">
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab303101/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab303101/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab303101/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab303101/TestPeople.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,7 @@
     "Application.StringTrimExample.executor": "Run",
     "Application.StringUpperExample.executor": "Run",
     "Application.TernaryOperatorDemo.executor": "Run",
+    "Application.TestPeople.executor": "Run",
     "Application.TestStringComparison.executor": "Run",
     "Application.Teststringcomparison2.executor": "Run",
     "Application.Teststringcomparison3.executor": "Run",
@@ -100,20 +101,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hospital">
-    <configuration name="EncapsulationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="glab30391.EncapsulationExample" />
-      <module name="PerScholasJavaDevelopment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="glab30391.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestPeople">
     <configuration name="Hospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30392.Hospital" />
       <module name="PerScholasJavaDevelopment" />
@@ -133,6 +121,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.perscholas.java.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab303101.TestPeople" />
+      <module name="PerScholasJavaDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.glab303101.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestPeople" />
         <item itemvalue="Application.Hospital" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.insertElements" />
         <item itemvalue="Application.com.perscholas.java.glab30391.EncapsulationExample" />
-        <item itemvalue="Application.EncapsulationExample" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +205,7 @@
       <workItem from="1732735486922" duration="15783000" />
       <workItem from="1732755247912" duration="2326000" />
       <workItem from="1733152856502" duration="8574000" />
-      <workItem from="1733242566669" duration="530000" />
+      <workItem from="1733242566669" duration="2499000" />
     </task>
     <task id="LOCAL-00001" summary="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY.">
       <option name="closed" value="true" />
@@ -302,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733159373423</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="GLAB 30392 UPDATE">
+      <option name="closed" value="true" />
+      <created>1733243260202</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733243260202</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +329,7 @@
     <MESSAGE value="ADDED PRACTICE ASSIGNMENT-303.2.1" />
     <MESSAGE value="First commit and Push" />
     <MESSAGE value="GLAB 30361 UPDATE" />
-    <option name="LAST_COMMIT_MESSAGE" value="GLAB 30361 UPDATE" />
+    <MESSAGE value="GLAB 30392 UPDATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="GLAB 30392 UPDATE" />
   </component>
 </project>
