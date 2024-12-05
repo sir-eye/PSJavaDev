@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="GLAB 303101 UPDATE">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab303102/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab303102/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab303102/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab303102/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab303102/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/glab303102/myRunner.java" afterDir="false" />
+    <list default="true" id="61243011-8399-4ed9-814f-c94e326cba86" name="Changes" comment="GLAB 303102 UPDATE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +97,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestPeople">
+  <component name="RunManager" selected="Application.SudokuSolver">
     <configuration name="Hospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30392.Hospital" />
       <module name="PerScholasJavaDevelopment" />
@@ -130,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab303101.TestPeople" />
+    <configuration name="SudokuSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.sudoku.SudokuSolver" />
       <module name="PerScholasJavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab303101.*" />
+          <option name="PATTERN" value="com.perscholas.java.sudoku.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.perscholas.java.glab30391.EncapsulationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab30391.EncapsulationExample" />
+    <configuration name="TestPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.glab303101.TestPeople" />
       <module name="PerScholasJavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.java.glab30391.*" />
+          <option name="PATTERN" value="com.perscholas.java.glab303101.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SudokuSolver" />
         <item itemvalue="Application.TestPeople" />
         <item itemvalue="Application.Hospital" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.insertElements" />
-        <item itemvalue="Application.com.perscholas.java.glab30391.EncapsulationExample" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +202,8 @@
       <workItem from="1732755247912" duration="2326000" />
       <workItem from="1733152856502" duration="8574000" />
       <workItem from="1733242566669" duration="3556000" />
-      <workItem from="1733251260668" duration="3079000" />
+      <workItem from="1733251260668" duration="3546000" />
+      <workItem from="1733335382902" duration="441000" />
     </task>
     <task id="LOCAL-00001" summary="Complete GLAB30321ASMT - COMPLIED AND RAN CODE SUCCESSFULLY.">
       <option name="closed" value="true" />
@@ -322,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733245115878</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="GLAB 303102 UPDATE">
+      <option name="closed" value="true" />
+      <created>1733255530594</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733255530594</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +345,7 @@
     <MESSAGE value="GLAB 30361 UPDATE" />
     <MESSAGE value="GLAB 30392 UPDATE" />
     <MESSAGE value="GLAB 303101 UPDATE" />
-    <option name="LAST_COMMIT_MESSAGE" value="GLAB 303101 UPDATE" />
+    <MESSAGE value="GLAB 303102 UPDATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="GLAB 303102 UPDATE" />
   </component>
 </project>
